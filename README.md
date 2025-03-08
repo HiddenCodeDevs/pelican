@@ -24,3 +24,28 @@ Join our vibrant community on Telegram for the latest updates, share your sugges
 
 Fly High, Trade Smart!
 In the dynamic world of crypto, every second counts. With Pelican by your side, you're not just trading—you’re soaring above the competition.
+
+
+### Real time stats - [Check here](https://t.me/c/2226558277/447)
+```
+🏦 Exchanges:
+- Binance
+- Mexc
+- Kucoin
+- Okx
+
+🌐 Networks:
+- AVAX
+- ETH
+- OPTIMISM
+- LINEA
+- BASE
+- ZKSYNC
+- POLYGON
+- ARB
+- BSC
+- SCROLL
+
+
+Updated: 08 Mar  12:54:17
+```
