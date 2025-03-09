@@ -49,3 +49,9 @@ In the dynamic world of crypto, every second counts. With Pelican by your side, 
 
 Updated: 08 Mar  12:54:17
 ```
+
+
+
+## How to use Pelican:
+![image](https://github.com/user-attachments/assets/fefc176b-7c6b-47bd-9ec1-1d1e1af5c19a)
+
