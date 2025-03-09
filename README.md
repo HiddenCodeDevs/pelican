@@ -55,3 +55,17 @@ Updated: 08 Mar  12:54:17
 ## How to use Pelican:
 ![image](https://github.com/user-attachments/assets/fefc176b-7c6b-47bd-9ec1-1d1e1af5c19a)
 
+After receiving the notification from the bot, you will get all the information about the token immediately.
+
+- name of the token and the most optimal spread with regard to availability for deposits and withdrawals, (time of receiving the signal).
+
+- The best arbitrage path (where to buy and where to sell)
+- Price on centalized exchanges
+- Availability of deposits and withdrawals on exchanges
+- Price on decentralized exchanges
+
+- There is also a list of contracts with quick copying functions. 
+- Links to pools where this token can be purchased
+- Quick navigation button directly on CEX for fast buying/selling
+
+
